@@ -1,0 +1,34 @@
+# macOS system files
+.DS_Store
+
+# Editor and IDE settings
+.vscode/
+
+# Shell configuration
+.zshrc
+
+# Compiled files and build artifacts
+_build/
+*.o
+*.cmx
+*.cmi
+*.cmo
+*.exe
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Binary and media files
+*.mp4
+*.pdf
+*.txt
+

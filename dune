@@ -1,0 +1,7 @@
+(executable
+ (name factor)
+ (libraries core core_bench zarith))
+
+(executable
+ (name factor_template)
+ (libraries core core_bench zarith))
