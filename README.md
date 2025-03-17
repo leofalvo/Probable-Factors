@@ -1,5 +1,6 @@
 # PROBABLE FACTORS:
-https://www.youtube.com/watch?v=caHvkIa4Jwc
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/caHvkIa4Jwc/0.jpg)](http://www.youtube.com/watch?v=caHvkIa4Jwc "Associated Presentation")
+
 ## Team Members:
 - Walter Jiang
 - Leonardo Falvo
