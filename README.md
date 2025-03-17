@@ -1,9 +1,9 @@
 # PROBABLE FACTORS:
-
+https://www.youtube.com/watch?v=caHvkIa4Jwc
 ## Team Members:
-- Walter Jiang, 261085955
-- Leonardo Falvo, 261097421
-- Zhengcheng Geng, 261103319
+- Walter Jiang
+- Leonardo Falvo
+- Zhengcheng Geng
 
 ### Walter Jiang:
 - Made factors and GCD main functions
